@@ -1,5 +1,5 @@
 # Replace-All-Jokers-with-Neco-Arc
-A re-texturing mod that replaces all traces of Jimbo from the original game with the joke character Neco-Arc from Tsukihime.
+A re-texturing mod that replaces (almost) all jokers in Balatro with the joke character ¨Neco-Arc¨ from Tsukihime.
 
 Installation guide:
 
