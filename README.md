@@ -1,7 +1,7 @@
 # Replace-All-Jokers-with-Neco-Arc
 A re-texturing mod that replaces (almost) all jokers in Balatro with the joke character ¨Neco-Arc¨ from Tsukihime.
 
-![Image Alt]([image_url](https://github.com/Matowaar/Replace-All-Jokers-with-Neco-Arc/blob/main/image.png?raw=true))
+![Image Alt]([image_url]([https://github.com/Matowaar/Replace-All-Jokers-with-Neco-Arc/blob/main/image.png?raw=true](https://raw.githubusercontent.com/Matowaar/Replace-All-Jokers-with-Neco-Arc/refs/heads/main/image.png))
 
 Installation guide:
 
